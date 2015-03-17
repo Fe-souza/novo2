@@ -1,0 +1,12 @@
+
+
+Started GET "/" for 10.0.2.2 at 2015-03-17 14:23:02 -0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/vagrant/.rvm/gems/ruby-2.1.1/gems/railties-4.1.8/lib/rails/templates/rails/welcome/index.html.erb (7.2ms)
+Completed 200 OK in 94ms (Views: 59.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/ola" for 10.0.2.2 at 2015-03-17 14:23:06 -0300
+Processing by OlaMundoController#index as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 29ms (Views: 29.0ms | ActiveRecord: 0.0ms)
